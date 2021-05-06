@@ -1,6 +1,6 @@
 Hey! I’m @NoahLloyd
-I'm a 15 year old hobbyist, and am inspired to build a web app.
-I'm doing my best to learn primarily Django, but with school, there isn't much time left.
+I'm a 15 year old hobbyist who knows basic python, and am inspired to become a full stack developer (over time).
+Currently learning JS, HTML, and CSS, but with school, there's only a couple hours a day left.
 Please contat me, in case you want to, at noahlloydrobson@gmail.com
 
 <!---
